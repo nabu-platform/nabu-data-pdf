@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<node artifactManager="be.nabu.eai.module.maven.MavenLibraryManager" created="2018-06-17T07:49:16.428+02:00" lastModified="2021-11-09T10:38:16.365+01:00" leaf="true" version="4">
-    <environmentId>apollo</environmentId>
+<node artifactManager="be.nabu.eai.module.maven.MavenLibraryManager" created="2018-06-17T07:49:16.428+02:00" lastModified="2025-06-16T17:24:51.501+02:00" leaf="true" version="6">
+    <environmentId>ares</environmentId>
     <hidden>false</hidden>
+    <locked>false</locked>
     <properties/>
 </node>
